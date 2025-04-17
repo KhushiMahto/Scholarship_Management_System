@@ -5,5 +5,11 @@ The project Scholarship Management System is a software package developed for ma
 
 Tkinter is the inbuilt python module that is used to create GUI applications. It is one of the most commonly used modules for creating GUI applications in Python as it is simple and easy to work with.
 
+<h3>User Interface</h3>
+
+![image](https://github.com/user-attachments/assets/b8a11b17-ce2e-4f96-b4b2-025c3ef83f10)
+
+
+
 
 
